@@ -1,0 +1,20 @@
+ <div class="header header2 footer2 theme_color3">
+        <h1 class="uppercase center bolder theme_color">СУПЕР-ШВАБРА 3 В 1</h1>
+        <h2 class="uppercase center theme_color">ЧИСТОТА В ДОМІ ЛЕГКО І ПРОСТО</h2>
+
+        <div class="header_img"></div>
+        <div class="price2">
+          <div class="old">
+            Звичайна ціна:
+            <span class><s>1290 грн</s></span>
+          </div>
+          <div class="sale b uppercase">
+            акція!
+            <span class="bolder">-53%</span>
+            знижка
+          </div>
+          <div class="new white">
+            Ціна по акції:
+            <span class="b">590 грн</span>
+          </div>
+        </div>
